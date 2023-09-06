@@ -1,0 +1,106 @@
+.body {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+#root{
+  width: 100%;
+}
+
+.spotify {
+  text-align: left;
+}
+
+.login {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+#btnIcon {
+  border-radius: 1000px;
+  border-color: red;
+}
+
+#btnIcon:hover {
+  color: rgb(210, 42, 42);
+  background-color: white;
+  box-shadow: inset 0 0 0 3px;
+}
+
+.login2 {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+#caixa1 {
+  border-width: 3px;
+  border-width: 1.2 em;
+  border-width: 2 rem;
+  border-width: 1.2 vh;
+  border-width: 1.2 vw;
+  border-style: groove;
+  font-size: 30px;
+  }
+
+#caixa2 {
+  border-width: 3px;
+  border-width: 1.2 em;
+  border-width: 2 rem;
+  border-width: 1.2 vh;
+  border-width: 1.2 vw;
+  border-style: groove;
+  font-size: 30px;
+}
+
+.login3 {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+.bntEnviar {
+  display: flex;
+  flex-direction: column;
+ }
+
+#btnCor {
+  background-color: rgb(92, 212, 71);
+  color: black;
+  border-radius: 1000px;
+}
+
+#btnCor:hover {
+  color: black;
+  background-color: white;
+  box-shadow: inset 0 0 0 3px;
+}
+
+.text {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#marcando:hover {
+  color: rgb(45, 228, 91);
+}
+
+.text2 {
+  text-align: center;
+}
+
+#sublinhar {
+  text-decoration: underline;
+}
+#sublinhar:hover {
+  color: rgb(45, 228, 91);
+}
+
+#linha{
+ display: flex;
+ flex-direction: column;
+}
